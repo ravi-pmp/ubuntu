@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TheK8sBook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kubernetes-ingress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kubernetes-ingress-tls-ssl-https" vcs="Git" />
+  </component>
+</project>

@@ -1,4 +1,4 @@
-master ansible_host=10.211.55.7  ansible_user='vagrant' ansible_ssh_private_key_file='/Users/ravindrakumar/PycharmProjects/ubuntu/.vagrant/machines/master/parallels/private_key'
-node1 ansible_host=10.211.55.6  ansible_user='vagrant' ansible_ssh_private_key_file='/Users/ravindrakumar/PycharmProjects/ubuntu/.vagrant/machines/node1/parallels/private_key'
-node2 ansible_host=10.211.55.8   ansible_user='vagrant' ansible_ssh_private_key_file='/Users/ravindrakumar/PycharmProjects/ubuntu/.vagrant/machines/node2/parallels/private_key'
+master ansible_host=10.211.55.4  ansible_user='vagrant' ansible_ssh_private_key_file='/Users/ravindrakumar/Documents/nginx_kube_para/.vagrant/machines/master/parallels/private_key'
+node1  ansible_host=10.211.55.3  ansible_user='vagrant' ansible_ssh_private_key_file='/Users/ravindrakumar/Documents/nginx_kube_para/.vagrant/machines/node1/parallels/private_key'
+node2 ansible_host=10.211.55.5  ansible_user='vagrant' ansible_ssh_private_key_file='/Users/ravindrakumar/Documents/nginx_kube_para/.vagrant/machines/node2/parallels/private_key'
 
